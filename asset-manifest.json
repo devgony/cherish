@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/cherish/static/css/main.c57accd9.chunk.css",
-    "main.js": "/cherish/static/js/main.09a5c310.chunk.js",
-    "main.js.map": "/cherish/static/js/main.09a5c310.chunk.js.map",
+    "main.css": "/cherish/static/css/main.4922748e.chunk.css",
+    "main.js": "/cherish/static/js/main.1cdeb0e8.chunk.js",
+    "main.js.map": "/cherish/static/js/main.1cdeb0e8.chunk.js.map",
     "runtime-main.js": "/cherish/static/js/runtime-main.8c9fe7c6.js",
     "runtime-main.js.map": "/cherish/static/js/runtime-main.8c9fe7c6.js.map",
     "static/js/2.d5971b31.chunk.js": "/cherish/static/js/2.d5971b31.chunk.js",
     "static/js/2.d5971b31.chunk.js.map": "/cherish/static/js/2.d5971b31.chunk.js.map",
     "index.html": "/cherish/index.html",
-    "precache-manifest.a3b2f48d973aebe70411b82595405cd7.js": "/cherish/precache-manifest.a3b2f48d973aebe70411b82595405cd7.js",
+    "precache-manifest.7b67b2a2d7120b315b362ebddb1fb912.js": "/cherish/precache-manifest.7b67b2a2d7120b315b362ebddb1fb912.js",
     "service-worker.js": "/cherish/service-worker.js",
-    "static/css/main.c57accd9.chunk.css.map": "/cherish/static/css/main.c57accd9.chunk.css.map",
+    "static/css/main.4922748e.chunk.css.map": "/cherish/static/css/main.4922748e.chunk.css.map",
     "static/js/2.d5971b31.chunk.js.LICENSE.txt": "/cherish/static/js/2.d5971b31.chunk.js.LICENSE.txt",
     "static/media/App.scss": "/cherish/static/media/GmarketSansMedium.a360f30a.woff2",
     "static/media/logo_black.png": "/cherish/static/media/logo_black.200e4fac.png",
@@ -19,7 +19,7 @@
   "entrypoints": [
     "static/js/runtime-main.8c9fe7c6.js",
     "static/js/2.d5971b31.chunk.js",
-    "static/css/main.c57accd9.chunk.css",
-    "static/js/main.09a5c310.chunk.js"
+    "static/css/main.4922748e.chunk.css",
+    "static/js/main.1cdeb0e8.chunk.js"
   ]
 }
