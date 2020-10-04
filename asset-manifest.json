@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/cherish/static/css/main.0c7c9ad9.chunk.css",
-    "main.js": "/cherish/static/js/main.f457fc20.chunk.js",
-    "main.js.map": "/cherish/static/js/main.f457fc20.chunk.js.map",
+    "main.js": "/cherish/static/js/main.6f0c37f3.chunk.js",
+    "main.js.map": "/cherish/static/js/main.6f0c37f3.chunk.js.map",
     "runtime-main.js": "/cherish/static/js/runtime-main.8c9fe7c6.js",
     "runtime-main.js.map": "/cherish/static/js/runtime-main.8c9fe7c6.js.map",
     "static/js/2.d5971b31.chunk.js": "/cherish/static/js/2.d5971b31.chunk.js",
     "static/js/2.d5971b31.chunk.js.map": "/cherish/static/js/2.d5971b31.chunk.js.map",
     "index.html": "/cherish/index.html",
-    "precache-manifest.f5734176719c8fa30c6ae65363fc2211.js": "/cherish/precache-manifest.f5734176719c8fa30c6ae65363fc2211.js",
+    "precache-manifest.aed2f132b01f0f5489c557c30515a492.js": "/cherish/precache-manifest.aed2f132b01f0f5489c557c30515a492.js",
     "service-worker.js": "/cherish/service-worker.js",
     "static/css/main.0c7c9ad9.chunk.css.map": "/cherish/static/css/main.0c7c9ad9.chunk.css.map",
     "static/js/2.d5971b31.chunk.js.LICENSE.txt": "/cherish/static/js/2.d5971b31.chunk.js.LICENSE.txt",
@@ -33,6 +33,6 @@
     "static/js/runtime-main.8c9fe7c6.js",
     "static/js/2.d5971b31.chunk.js",
     "static/css/main.0c7c9ad9.chunk.css",
-    "static/js/main.f457fc20.chunk.js"
+    "static/js/main.6f0c37f3.chunk.js"
   ]
 }

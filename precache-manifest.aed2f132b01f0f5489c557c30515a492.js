@@ -1,10 +1,10 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "1be8cbf6bd6d701e0b49725b171c2d55",
+    "revision": "ca3b839a1c42dd2d8a9b0df0f5f844df",
     "url": "/cherish/index.html"
   },
   {
-    "revision": "652eefbc8e7b345650b7",
+    "revision": "4d3b848f15ddc06823d6",
     "url": "/cherish/static/css/main.0c7c9ad9.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/cherish/static/js/2.d5971b31.chunk.js.LICENSE.txt"
   },
   {
-    "revision": "652eefbc8e7b345650b7",
-    "url": "/cherish/static/js/main.f457fc20.chunk.js"
+    "revision": "4d3b848f15ddc06823d6",
+    "url": "/cherish/static/js/main.6f0c37f3.chunk.js"
   },
   {
     "revision": "ab3c2510238e12bef14a",
