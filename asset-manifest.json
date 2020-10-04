@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/cherish/static/css/main.950c2d59.chunk.css",
+    "main.css": "/cherish/static/css/main.0c7c9ad9.chunk.css",
     "main.js": "/cherish/static/js/main.f457fc20.chunk.js",
     "main.js.map": "/cherish/static/js/main.f457fc20.chunk.js.map",
     "runtime-main.js": "/cherish/static/js/runtime-main.8c9fe7c6.js",
@@ -8,9 +8,9 @@
     "static/js/2.d5971b31.chunk.js": "/cherish/static/js/2.d5971b31.chunk.js",
     "static/js/2.d5971b31.chunk.js.map": "/cherish/static/js/2.d5971b31.chunk.js.map",
     "index.html": "/cherish/index.html",
-    "precache-manifest.9e704d303f5a929a6d745673fc375bbe.js": "/cherish/precache-manifest.9e704d303f5a929a6d745673fc375bbe.js",
+    "precache-manifest.f5734176719c8fa30c6ae65363fc2211.js": "/cherish/precache-manifest.f5734176719c8fa30c6ae65363fc2211.js",
     "service-worker.js": "/cherish/service-worker.js",
-    "static/css/main.950c2d59.chunk.css.map": "/cherish/static/css/main.950c2d59.chunk.css.map",
+    "static/css/main.0c7c9ad9.chunk.css.map": "/cherish/static/css/main.0c7c9ad9.chunk.css.map",
     "static/js/2.d5971b31.chunk.js.LICENSE.txt": "/cherish/static/js/2.d5971b31.chunk.js.LICENSE.txt",
     "static/media/Result.scss": "/cherish/static/media/GmarketSansMedium.a360f30a.woff2",
     "static/media/img_1.png": "/cherish/static/media/img_1.9dbfecc5.png",
@@ -32,7 +32,7 @@
   "entrypoints": [
     "static/js/runtime-main.8c9fe7c6.js",
     "static/js/2.d5971b31.chunk.js",
-    "static/css/main.950c2d59.chunk.css",
+    "static/css/main.0c7c9ad9.chunk.css",
     "static/js/main.f457fc20.chunk.js"
   ]
 }
