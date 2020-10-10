@@ -1,22 +1,23 @@
 {
   "files": {
-    "main.css": "/cherish/static/css/main.1142bea2.chunk.css",
-    "main.js": "/cherish/static/js/main.3f5ea035.chunk.js",
-    "main.js.map": "/cherish/static/js/main.3f5ea035.chunk.js.map",
+    "main.css": "/cherish/static/css/main.bd811c0a.chunk.css",
+    "main.js": "/cherish/static/js/main.ad43166a.chunk.js",
+    "main.js.map": "/cherish/static/js/main.ad43166a.chunk.js.map",
     "runtime-main.js": "/cherish/static/js/runtime-main.8c9fe7c6.js",
     "runtime-main.js.map": "/cherish/static/js/runtime-main.8c9fe7c6.js.map",
     "static/js/2.d5971b31.chunk.js": "/cherish/static/js/2.d5971b31.chunk.js",
     "static/js/2.d5971b31.chunk.js.map": "/cherish/static/js/2.d5971b31.chunk.js.map",
     "index.html": "/cherish/index.html",
-    "precache-manifest.41676bc6e2980932111da8ae2c847840.js": "/cherish/precache-manifest.41676bc6e2980932111da8ae2c847840.js",
+    "precache-manifest.f8a367da609e3ad48c765507b4812785.js": "/cherish/precache-manifest.f8a367da609e3ad48c765507b4812785.js",
     "service-worker.js": "/cherish/service-worker.js",
-    "static/css/main.1142bea2.chunk.css.map": "/cherish/static/css/main.1142bea2.chunk.css.map",
+    "static/css/main.bd811c0a.chunk.css.map": "/cherish/static/css/main.bd811c0a.chunk.css.map",
     "static/js/2.d5971b31.chunk.js.LICENSE.txt": "/cherish/static/js/2.d5971b31.chunk.js.LICENSE.txt",
     "static/media/Result.scss": "/cherish/static/media/GmarketSansMedium.a360f30a.woff2",
+    "static/media/img_0.png": "/cherish/static/media/img_0.9dbfecc5.png",
     "static/media/img_1.png": "/cherish/static/media/img_1.9dbfecc5.png",
     "static/media/img_10.png": "/cherish/static/media/img_10.b7007f40.png",
     "static/media/img_11.png": "/cherish/static/media/img_11.892887a1.png",
-    "static/media/img_12.png": "/cherish/static/media/img_12.892887a1.png",
+    "static/media/img_12.png": "/cherish/static/media/img_12.6d3204fd.png",
     "static/media/img_13.png": "/cherish/static/media/img_13.a4119dcf.png",
     "static/media/img_14.png": "/cherish/static/media/img_14.aa501110.png",
     "static/media/img_2.png": "/cherish/static/media/img_2.42c73541.png",
@@ -32,7 +33,7 @@
   "entrypoints": [
     "static/js/runtime-main.8c9fe7c6.js",
     "static/js/2.d5971b31.chunk.js",
-    "static/css/main.1142bea2.chunk.css",
-    "static/js/main.3f5ea035.chunk.js"
+    "static/css/main.bd811c0a.chunk.css",
+    "static/js/main.ad43166a.chunk.js"
   ]
 }
